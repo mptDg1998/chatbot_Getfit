@@ -1,0 +1,185 @@
+{
+    "intents": [
+      {
+        "tag": "GetFit_intro",
+        "patterns": [
+          "Introduction to getfit gym?",
+          "When was Getfit founded?",
+          "Tell me about getfit gym"
+        ],
+        "responses": [
+          "Getfit Gym & Yoga thành lập năm 2010, Getfit nhanh chóng trở thành một trong những thương hiệu Fitness lớn nhất Việt Nam. Với cơ sở vật chất đẳng cấp, thiết bị luyện tập thể thao hiện đại, đội ngũ Huấn luyện viên có chuyên môn, Getfit tạo dấu ấn đặc biệt trong giới thể hình Việt.",
+          "d3952052-055f-4dc6-a072-51e924257c78"
+        ]
+      },
+      {
+        "tag": "GetFit_service",
+        "patterns": [
+          "Services available.",
+          "What services does Getfit gym have?"
+        ],
+        "responses": [
+          "Get-fit gym cung cấp nhiều dịch vụ cho bạn những sự lựa chọn phù hợp nhất: Zumba dance, Khóa Yoga master class, Khóa Yoga 1 kèm 1, huấn luyện viên PT cá nhân, Khóa Boxing, EMS (Miha BodyTec), Gentle Yoga, Cardio hit, Ashtanga Yoga, Spinning class, Aerobic dance, Sexy dance, Therapy Yoga, Vinyasa Flow, Hatha Yoga, Balance Yoga.",
+          "907edbd0-47d5-4394-8d17-9cb74da1677e"
+        ]
+      },
+      {
+        "tag": "GetFit_system",
+        "patterns": [
+          "What is the infrastructure of getfit gym?",
+          "Getfit gym ecosystem",
+          "What does Getfit gym have?"
+        ],
+        "responses": [
+          "Get-fit gym & Yoga có các trung tâm thể dục thể hình trên địa bàn thành phố Hồ  Chí Minh, trung tâm chăm sóc sức khỏe sắc đẹp Getfit Beauty và có cả Viện đào tạo và nghiên cứu thể thao Getfit Academy.",
+          "9deb2e48-cdbb-4fc0-afbb-2519dd06c24e"
+        ]
+      },
+      {
+        "tag": "GetFit_goal",
+        "patterns": [
+          "What is the goal of Getfit gym?",
+          "What goal does Getfit gym aim for?"
+        ],
+        "responses": [
+          "Getfit Gym & Yoga đặt mục tiêu luôn nằm trong top những phòng tập đẳng cấp nhất Việt Nam. Trong hơn một thập kỷ phát triển, Getfit dần chứng minh khi ngày càng mở rộng khi tăng cường các bộ môn đặc biệt như Miha Bodytec (EMS), Golf 3D...",
+          "459a563d-7fc6-493d-961a-1c079ae8fd76"
+        ]
+      },
+      {
+        "tag": "GetFit_Special",
+        "patterns": [
+          "What are the highlights that Getfit gym owns?",
+          "Is Getfit gym better than other competitors?"
+        ],
+        "responses": [
+          "Phòng tập thể hình đầu tiên áp dụng công nghệ Miha Bodytec (EMS) vào tập luyện. Getfit Gym & Yoga là nền tảng mở rộng hệ sinh thái với hàng loạt các dịch vụ thư giãn, giải trí hấp dẫn. Golf 3D là một bước tiến công nghệ đáng chú ý nằm trong hệ thống các phòng tập trên 1.500 m2.",
+          "59c73666-4beb-45eb-8e64-ff4e2e90ca6e"
+        ]
+      },
+      {
+        "tag": "GetFit_Vision",
+        "patterns": [
+          "What is the strategic vision of Getfit gym?",
+          "What is the development orientation of Getfit gym?"
+        ],
+        "responses": [
+          "Getfit giữ vững trong top đầu những thương hiệu Fitness tại Việt Nam. Áp dụng công nghệ tiên tiến nhất thế giới vào việc xây dựng thể chất người Việt. Getfit không ngừng mở rộng và đầu tư cơ sở vật chất, chất lượng dịch vụ và chuyên môn huấn luyện viên. Khẳng định sự phát triển bền vững một thương hiệu Việt.",
+          "c956ed1b-89a5-4e69-aeaa-5f8c6d58cd21"
+        ]
+      },
+      {
+        "tag": "GetFit_core",
+        "patterns": [
+          "What are the core values of Getfit gym?",
+          "What core values does Getfit gym have?"
+        ],
+        "responses": [
+          "Giá trị cốt lõi mà Getfit Gym & Yoga luôn đảm bảo là luôn trân trọng, thấu hiểu khách hàng để cung cấp dịch vụ chất lượng và phù hợp nhất đối với từng khách hàng. Chúng tôi luôn không ngừng học hỏi và phát triển những công nghệ tiên tiến hàng đầu thế giới. Chúng tôi luôn trân trọng nhân viên, họ là tài sản quý giá mà doanh nghiệp đang sở hữu. Chúng tôi luôn đề cao tính nhất quán và chất lượng, đặt uy tín lên hàng đầu. Chúng tôi đề cao tinh thần đồng đội và luôn vui vẻ cùng nhau tạo nên không khí hài hòa, dễ chịu khi cùng nhau tập luyện, cùng nhau hướng đến sức khỏe và hạnh phúc.",
+          "16040a16-9c79-406c-92b8-f81e18bfbcb5"
+        ]
+      },
+      {
+        "tag": "GetFit_location",
+        "patterns": [
+          "Where can I go to the gym?",
+          "What branches does Getfit gym have?"
+        ],
+        "responses": [
+          "Hiện tại Getfit Gym và Yoga đã có 3 chi nhánh: Chi nhánh Oriental (Tân Phú). Địa chỉ: Lầu M (lầu 1) Oriental Plaza, 685  u Cơ, P.Tân Thành,Q.Tân Phú.Bạn có thể liên lạc qua số điện thoại:0977699490. Chi nhánh Mia Center. Địa chỉ Lầu 4, Saigon Mia Center, 202 Đường số 9A, KDC Trung Sơn. Điện thoại:0966111241. Và Chi nhánh Hoàng Diệu Lầu 3, Cao Ốc H3, 384 Hoàng Diệu, Phường 6, Quận 4, TP. HCM.Điện thoại:0988499745",
+          "a27715c8-1f0d-42b3-aa00-2d7b6a7015d1"
+        ]
+      },
+      {
+        "tag": "GetFit_gym_definition",
+        "patterns": [
+          "What is Gym?",
+          "State the concept of gym",
+          "Definition of the word gym."
+        ],
+        "responses": [
+          "Gym chính là một từ có nguồn gốc từ Hy Lạp cổ đại, bắt nguồn của nó chính là từ “gymnasium” nó có nghĩa liên quan đến việc tập thể dục, thể thao ở trong nhà. Ngày nay, từ Gym chính là một khái niệm để chỉ cho việc tập thể hình nói chung. Những người tập gym hay các gymer chính là ám chỉ những người tập thể hình ở các không gian rộng, thoáng với các thiết bị hỗ trợ như máy tập luyện, tạ,… hướng tới mục tiêu phát triển cơ bắp, giảm cân,…",
+          "faf1786a-4fcd-4f86-83e7-bc9bd119e505"
+        ]
+      },
+      {
+        "tag": "GetFit_gym_practice",
+        "patterns": [
+          "What is the purpose of the gym?",
+          "What is the gym doing?"
+        ],
+        "responses": [
+          "Tập gym chính là một hình thức tập luyện được nhiều người lựa chọn với mục đích hướng tới việc tăng cân, duy trì được vóc dáng, giúp giải tỏa căng thẳng sau một ngày làm việc. Nhờ nhu cầu đó đã thúc đẩy việc các phòng tập luyện ra đời với các hình thức tập vô cùng đa dạng như dance, yoga, fitness,…. đặc biệt cũng có những hình thức tập luyện chuyên sâu vào từng mục đích cụ thể hơn như: tăng cơ cho nam, giảm mỡ bụng, giảm cân cho nữ,… và điều này cũng tùy thuộc vào mục đích và nhu cầu của từng đối tượng cụ thể.",
+          "b60e58c0-fecd-41cf-809e-10d132947668"
+        ]
+      },
+      {
+        "tag": "GetFit_gym_benefit",
+        "patterns": [
+          "Benefits of exercising in the gym",
+          "What are the benefits of exercising?"
+        ],
+        "responses": [
+          "Lợi ích của việc tập Gym mang lại là: Phát triển cơ bắp, giúp kích thích và xây dựng cơ bắp khi bạn kết hợp với lượng protein đầy đủ. Điều này cũng là do khi tập gym cơ thể giải phóng được lượng hormone giúp thúc đẩy quá trình hấp thụ các axit amin cho cơ bắp làm cho cơ bắp phát triển. Cải thiện được tâm trạng, khi tập gym tâm trạng thoải mái hơn sẽ làm giảm đi cảm giác chán nản, căng thẳng. Hơn nữa, việc tập thể dục đã được chứng minh rằng sẽ giúp làm giảm các triệu chứng về lo lắng. Hơn thế nữa, nó cũng giúp chúng ta có những nhận thức đúng đắn hơn về tinh thần và phân tâm được nỗi sợ hãi. Giúp giảm cân, một số nghiên cứu đã chỉ ra rằng việc không hoạt động cũng là yếu tố khiến cho nhiều người tăng cân, béo phì. Để hiểu rõ hơn tác dụng của tập thể dục đối với việc giảm cân thì chúng ta cần phải biết được mối quan hệ giữa tập thể dục và sự tiêu hao năng lượng. Cơ thể của chúng ta dành năng lượng theo 3 cách: tiêu hóa thức ăn, duy trì các chức năng trong cơ thể và tập thể dục. Khi chúng ta giảm cân bằng việc ăn kiêng thì lượng calo sẽ giảm và kéo theo tốc độ trao đổi chất giảm theo, điều này sẽ trì hoãn được việc giảm cân. Ngược lại, khi tập gym thường xuyên cũng làm tăng quá trình trao đổi chất, điều này sẽ làm calo được đốt cháy nhanh hơn và sẽ giúp bạn giảm cân.",
+          "d62f62b2-fce6-4bdd-9fdb-bbd2efe5e993"
+        ]
+      },
+      {
+        "tag": "GetFit_PT",
+        "patterns": [
+          "What is PT gym?",
+          "Definition of PT"
+        ],
+        "responses": [
+          "PT là cụm từ viết tắt theo tiếng anh đó là Personal Trainer. Dịch sát nghĩa thì từ này chính là người hướng dẫn cá nhân. Mở rộng nghĩa từ, ta có thể xem PT vừa là người huấn luyện kiêm luôn người tư vấn, người bạn đồng hành…Tùy theo mức độ thân thiết, cách tiếp cận và thái độ làm việc của họ.",
+          "8313cd7f-d5d5-40ad-99ff-e0e30c2c5c01"
+        ]
+      },
+      {
+        "tag": "GetFit_PT_role",
+        "patterns": [
+          "What is the role of PT?",
+          "The role of PT"
+        ],
+        "responses": [
+          "Vai trò chung của PT là: Giúp người tập theo đuổi và duy trì một lối sống lành mạnh. Thực hiện những phương pháp để thúc đẩy tham gia tập luyện đúng thời gian, đúng động tác. Hỗ trợ người tập gym đạt được mục tiêu về ngoại hình cũng như sức khỏe theo mong muốn của người tập.",
+          "09ee98f1-57c0-4f0a-9fc9-ac5596ae38ee"
+        ]
+      },
+      {
+        "tag": "GetFit_PT_reason",
+        "patterns": [
+          "Why hire PT?",
+          "Is it possible not to hire a PT?",
+          "What does it cost to rent PT?"
+        ],
+        "responses": [
+          "Đây có lẽ là câu hỏi của rất nhiều người đã và đang bắt đầu trên con đường tập luyện. Khi tập luyện cùng với huấn luyện viên cá nhân, bạn có thể nhận được thêm động lực, sự tự tin và có thể tận dụng tối đa các thiết bị có trong phòng tập. Đồng thời, bạn còn nhận được kế hoạch tập luyện cụ thể và nâng cao khả năng tập luyện của bản thân. Vì vậy, nếu có điều kiện thì việc thuê PT là điều cần thiết để giúp bạn đạt được vóc dáng như mong muốn.",
+          "f3177e05-1452-4a77-8a9f-6b75f9fc5655"
+        ]
+      },
+      {
+        "tag": "GetFit_PT_work",
+        "patterns": [
+          "What is the job of the PT?",
+          "What does PT usually do?"
+        ],
+        "responses": [
+          "Công việc của PT gym không chỉ là hỗ trợ hay chỉnh sửa động tác cho học viên, mà trong thời gian tập cần thực hiện những công việc sau đây: Hiểu được tâm lý của học viên, từ đó nắm bắt được nhu cầu, mục đích, mong muốn hay nguyện vọng tập luyện để có thể tư vấn và lên kế hoạch về những bài tập sao cho hợp lý. Nắm vững các yếu tố về chuyên môn, kết hợp với kỹ năng ngoài tiến hành kiểm tra thể lực. Giải đáp chi tiết về số đo cũng như các chỉ số về thể lực trước khi bắt đầu huấn luyện một cách cụ thể. Thiết kế bài tập, thời gian tập luyện và chế độ ăn uống hợp lý và theo mục tiêu đề ra từ ban đầu. Theo dõi, đồng hành cùng học viên để sửa tư thế, động tác và động viên giúp họ tự tin hơn về cơ thể và tập luyện một cách tốt nhất. Tư vấn và giải đáp những thắc mắc của học viên. Theo dõi kết quả tập luyện để bổ sung, thay đổi linh hoạt giữa các bài tập.",
+          "46eb2e94-9d11-4709-a23d-d89e01918890"
+        ]
+      },
+      {
+        "tag": "GetFit_PT_benefit",
+        "patterns": [
+          "What are the benefits of hiring a PT?",
+          "What value can PT bring?"
+        ],
+        "responses": [
+          "Được huấn luyện từ người có chuyên môn. Đây được xem là lý do đầu tiên mà mỗi khách hàng tìm đến PT chính là trình độ chuyên môn của họ. Các PT đều đã trải qua những huấn luyện về hình thể cũng như sức khỏe để có thể hướng dẫn cho học viên một cách tốt nhất. Ngoài ra, họ nắm được chế độ dinh dưỡng cũng như lối sống lành mạnh để giúp học viên đạt được mục tiêu. Đáp ứng yêu cầu của mỗi khách hàng. Mỗi học viên đến với tập gym đều mang đến mục tiêu luyện tập có thể là muốn giảm cân, tăng cơ, có thể là cả tăng cân, luyện tập sức bền độ dẻo dai…PT sẽ là người tiếp nhận yêu cầu, đánh giá và đưa ra lộ trình tập luyện phù hợp. Giúp học viên tránh xa những “chấn thương”. PT sẽ là người theo dõi, hướng dẫn học viên tập luyện động tác chính xác, đúng kỹ thuật để giúp bạn tránh xa những chấn thương, an toàn và đạt hiệu quả cao nhất. PT giúp bạn vượt khỏi giới hạn của bản thân. Việc tập luyện để đạt được mục tiêu không phải chuyện dễ, sẽ có lúc bạn thấy chán nản và không muốn luyện tập. Bạn cảm thấy tự ti về hình thể cũng chính là rào cản của bản thân bạn. Ở đó, PT sẽ trở thành người bạn đồng hành mỗi ngày, nói với bạn rằng “cố lên một chút” và là chất xúc tác giúp bạn vượt qua giới hạn bản thân.",
+          "622e5058-3775-4a8f-81c9-2dd99f304085"
+        ]
+      }
+    ]
+  }
+  

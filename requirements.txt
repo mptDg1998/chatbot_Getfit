@@ -1,0 +1,16 @@
+Flask==1.1.1
+nltk==3.4.5
+gunicorn==20.1.0
+Jinja2==3.0.0rc2
+itsdangerous==2.0.1
+werkzeug==2.0.3
+flask_restful
+pandas
+flask_sqlalchemy==2.5.1
+sqlalchemy==1.4.29
+Flask-SQLAlchemy
+requests
+wget
+googletrans==4.0.0-rc1
+tensorflow 
+keras 
